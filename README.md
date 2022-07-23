@@ -4,9 +4,9 @@ TABLE OF CONTENTS
 * [Link](#link)
 * [Image](#Image)
 <a link="link"/>
-<a image="image"/>
+<a Image="Image"/>
 
-##image
+### image
 ![](https://github.com/wlako-kahibaw/MY-NEW-CODE/blob/main/sunset.jpg)
 
 ## link
